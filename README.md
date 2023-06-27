@@ -18,3 +18,6 @@ Learnt Data Visualization and Data Analytics with Excel by solving 3 Realistic A
 
 
 ### 2.  Regional Revenue Dashboard
+
+
+<img src = "https://github.com/Trencio/Excel-Project/blob/main/Regional%20Revenue%20Dashboard.png" />
