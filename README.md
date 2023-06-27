@@ -12,5 +12,9 @@ Learnt Data Visualization and Data Analytics with Excel by solving 3 Realistic A
 ## Screenshots
 
 ### 1. Wages by Industry BI 
+    
    <img src = "https://github.com/Trencio/Excel-Project/blob/main/Wages%20by%20Industry%20Analysis%20.png"/>
 
+
+
+### 2.  Regional Revenue Dashboard
